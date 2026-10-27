@@ -68,4 +68,6 @@ Photoresistor (Exercise 5 setup):
 
 --> reacts to light: when it runs just normal (with daylight), it prints high numbers starting at 600. When you cover it with your hand and therefore dim the light, the numbers decrease to 100.
 
-
+MAIN TAKEAWAYS: 
+- I found it actually pretty cool to control the light with my hand :)
+- looking at these processes in detail or in a very small simple way, helps to undertstand 
