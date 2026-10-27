@@ -56,3 +56,8 @@ Arduino Code:
 
 ![IMG_0245](https://github.com/user-attachments/assets/23c805a4-a990-48f7-83d5-044c56f6ec74)
 
+Photoresistor (Exercise 5 setup): 
+![IMG_0246](https://github.com/user-attachments/assets/4531754c-4953-41e5-94f9-642bb60daa97)
+--> reacts to light: when it runs just normal (with daylight), it prints high numbers starting at 600. When you cover it with your hand and therefore dim the light, the numbers decrease to 100.
+
+
