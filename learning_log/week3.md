@@ -1,3 +1,5 @@
+*What we did in Week 3*
+
 analogWrite() - PWM
 - Pulse-Width Modulation, is a digital method of controlling analog power by rapidly switching a signal on and off.
 - 0–255 : 0v - 5v (8 bits)
@@ -52,6 +54,7 @@ How it should look like on the board:
 ![IMG_0244](https://github.com/user-attachments/assets/e345f37f-6d3f-4122-a8e1-2000d2b4d7b9)
 
 - We learned how to dim a light and turn it on and off (basically built a lightswitch)
+  
 Arduino Code:
 
 ![IMG_0245](https://github.com/user-attachments/assets/23c805a4-a990-48f7-83d5-044c56f6ec74)
