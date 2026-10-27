@@ -51,17 +51,20 @@ Serial Baud Rate --> number of signal changes per second in a serial communicati
 Potentiometer (adjustable resistor, common use case: volume adjustment, has 3 pins, a wiper and a resistive strip) 
 How it should look like on the board: 
 
-![IMG_0244](https://github.com/user-attachments/assets/e345f37f-6d3f-4122-a8e1-2000d2b4d7b9)
+![potentiometer](https://github.com/user-attachments/assets/c5e8386a-ab4d-48d8-ac8f-603954e6f05f)
+
 
 - We learned how to dim a light and turn it on and off (basically built a lightswitch)
   
 Arduino Code:
 
-![IMG_0245](https://github.com/user-attachments/assets/23c805a4-a990-48f7-83d5-044c56f6ec74)
+![diml_light_code](https://github.com/user-attachments/assets/f0d577b7-3dc7-406d-a486-7428ffc2a10e)
+
 
 Photoresistor (Exercise 5 setup): 
 
-![IMG_0246](https://github.com/user-attachments/assets/4531754c-4953-41e5-94f9-642bb60daa97)
+![exercise5](https://github.com/user-attachments/assets/5d1dd3de-964a-40ca-9264-f65b13cae91e)
+
 
 --> reacts to light: when it runs just normal (with daylight), it prints high numbers starting at 600. When you cover it with your hand and therefore dim the light, the numbers decrease to 100.
 
