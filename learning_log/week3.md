@@ -47,4 +47,8 @@ Serial Baud Rate --> number of signal changes per second in a serial communicati
 - analog read (only on analog pins!) between 0 and 1023
 
 
-Potentiometer (adjustable resistor, common use case: volume adjustment, has 3 pins and a whiper) 
+Potentiometer (adjustable resistor, common use case: volume adjustment, has 3 pins, a wiper and a resistive strip) 
+How it should look like on the board: 
+
+![IMG_0244](https://github.com/user-attachments/assets/8e924478-5c8f-43bb-b005-bc897d5b44b0)
+
