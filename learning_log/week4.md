@@ -12,7 +12,11 @@ This week was all about sound!
 - Ucc = power supply
 - Trippger pin and Echo Pin
 
-had some struggle with my code, debugging, etc. 
+Things I need to remember: 
+- definen PinMode
+- always add ; in the end of a line
+- do I need to use print, read,etc..?
+- 
 ![IMG_0446](https://github.com/user-attachments/assets/bf187d15-b907-420e-ae7e-b9af3c4c79ae)
 ![IMG_0445](https://github.com/user-attachments/assets/a1e726a4-e724-44a4-b0d4-6d784ffc08fc)
 ![IMG_0443](https://github.com/user-attachments/assets/e9f14e49-4fae-4839-ba81-8da1d6c38bde)
