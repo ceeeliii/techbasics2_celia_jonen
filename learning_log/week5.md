@@ -5,7 +5,8 @@
 1. Exercise:
 - makes it move 180 degrees, interruptetd --> add a delay
 
-Code e.g. (just makes it move in one half) 
+Code example from Arduino (just makes it move in one half) 
+
 #include <Servo.h>
 Servo myservo;
 
