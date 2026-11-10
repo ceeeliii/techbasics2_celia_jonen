@@ -47,3 +47,9 @@ Examples for ussage (projects):
 - figuring out the correct code by myself, putting all different commands together in the right order/ combining them
 - code still feels kinda weird or hard to grasp for me, but I feel like I'm becomming more familiar with how Arduino in general works
 - following class - sometimes all codings or items on the board sound the same to me hah
+
+Photos from class (board setup with the servo and joystick): 
+[pictures_week5-1.pdf](https://github.com/user-attachments/files/34636364/pictures_week5-1.pdf)
+
+
+
