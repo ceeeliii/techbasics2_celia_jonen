@@ -27,3 +27,8 @@ I struggled with Exercise 3: setting the pins up correctly by myself and also ad
 else: 
 - bigger stepper types exist too: NEMA motors with drivers like the A4988, DRV8825 or TMC2208. Steppers can drive a threaded rod or a pulley with belt
 - to "home" a stepper (find its starting position), you can use a limit switch or a magnet with a Hall effect sensor
+
+
+
+Photos: 1. Exercise Set up and 2. Exercise Set up 
+[week6_photos.pdf](https://github.com/user-attachments/files/34967853/week6_photos.pdf)
