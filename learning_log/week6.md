@@ -32,3 +32,6 @@ else:
 
 Photos: 1. Exercise Set up and 2. Exercise Set up 
 [week6_photos.pdf](https://github.com/user-attachments/files/34967853/week6_photos.pdf)
+
+Last Exercise: 
+[week6_photos.2.pdf](https://github.com/user-attachments/files/34968535/week6_photos.2.pdf)
