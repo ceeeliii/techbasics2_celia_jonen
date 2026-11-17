@@ -11,7 +11,7 @@ Exercise 2:
 
 - Pattern: "moveCW = !moveCW;" --> changes back and forth (boolean, not operator)
 
-I struggled with Exercise 3: setting the pins up correctly by myself and also adjusting the code so that thes stepper stops, when I touch the sensor...
+I struggled with Exercise 3: setting the pins up correctly by myself and also adjusting the code so that thes stepper stops, when I touch the sensor, but managed to fix it in the end (with some help) :) 
 
 *What I learned:* 
 - stepper motor moves in small, exact steps instead of just to an angle like a servo --> good for very precise positioning and for strong torque at low speed
